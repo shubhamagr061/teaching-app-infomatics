@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TeachingApp</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtResetPassword">Reset Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="camera">Camera</string>
+    <string name="phone">Dial Phone</string>
+    <string name="createDocument">Create Document</string>
+</resources>
